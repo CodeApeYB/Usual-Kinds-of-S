@@ -1,4 +1,4 @@
-My Sorts
+//My Sorts
 #include<stdio.h>
 #include<stdlib.h>
 void InsertSort( int a[] )		//插入排序 
